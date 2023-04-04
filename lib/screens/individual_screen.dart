@@ -48,20 +48,20 @@ class _IndividualScreenState extends State<IndividualScreen> {
             height:20,
            ),
            
-   reusableTextField("Enter your name", Icons.add , true, namecontroller),
+   reusableTextField("Enter your name", Icons.add , false, namecontroller),
   
 const SizedBox(
             height:20,
            ),
-           reusableTextField("Enter your city name ", Icons.add , true, citycontroller),
+           reusableTextField("Enter your city name ", Icons.add ,false, citycontroller),
    const SizedBox(
             height:20,
            ),
-            reusableTextField("Enter your location", Icons.add , true, loccontroller),
+            reusableTextField("Enter your location", Icons.add , false, loccontroller),
             const SizedBox(
             height:20,
            ),
-            reusableTextField("Enter your mobile number", Icons.add , true, numcontroller),
+            reusableTextField("Enter your mobile number", Icons.add , false, numcontroller),
       const SizedBox(
             height:20,
            ),

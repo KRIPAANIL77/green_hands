@@ -57,15 +57,15 @@ const SizedBox(
 const SizedBox(
             height:20,
            ),
-           reusableTextField("Enter the date on which the tree is planted ", Icons.add , true, datecontroller),
+           reusableTextField("Enter the date on which the tree is planted ", Icons.add , false, datecontroller),
    const SizedBox(
             height:20,
            ),
-            reusableTextField("Enter the width of the trunk", Icons.add , true, widthcontroller),
+            reusableTextField("Enter the width of the trunk", Icons.add , false, widthcontroller),
             const SizedBox(
             height:20,
            ),
-            reusableTextField("Is the tree in danger of falling ?", Icons.add , true, alarmcontroller),
+            reusableTextField("Is the tree in danger of falling ?", Icons.add , false, alarmcontroller),
       const SizedBox(
             height:20,
            ),

@@ -20,7 +20,7 @@ TextEditingController controller ){
     ),
     
     ),
- keyboardType: isPassword ? TextInputType.visiblePassword : TextInputType.numberWithOptions(),
+// keyboardType: isPassword ? TextInputType.visiblePassword : TextInputType.numberWithOptions(),
    
   );
 }
