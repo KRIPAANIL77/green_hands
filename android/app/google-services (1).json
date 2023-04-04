@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695598436409",
+    "project_id": "treeapp-gs",
+    "storage_bucket": "treeapp-gs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695598436409:android:8a842d744c4e18b3b17de8",
+        "android_client_info": {
+          "package_name": "com.example.treeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695598436409-5309npen488aduqm38k7lu3c0cimn8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBgNetxfkV4VZ_PKq1pfRzRQSmM1j7G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695598436409-5309npen488aduqm38k7lu3c0cimn8g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
